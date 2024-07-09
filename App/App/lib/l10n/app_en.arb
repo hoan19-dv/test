@@ -1,0 +1,24 @@
+ 
+ {
+  "not_selected_stock_code":"You have not selected a stock code",
+  "purchasing_ability":"BP: ",
+  "lang":"Language",
+  "language":"Language",
+  "languageDropdown": "{locale, select, vi{VN} en{EN} other{} }",
+  "@languageDropdown": {
+    "placeholders": {
+      "locale": {
+        "type": "String"
+      }
+    }
+  },
+ "loginForm": "{loginForm, select,title{Login} create_account{Register} account{Don't have an account yet?} user_name{User name} password{Password} save_login{Save login} forgot_password{Forgot password ?} search_stk{Search account} save_login_info{Remember} other{} }",
+  "@loginForm": {
+    "placeholders": {
+      "loginForm": {
+        "type": "String"
+      }
+    }
+  }
+ }
+

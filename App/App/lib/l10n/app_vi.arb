@@ -1,0 +1,22 @@
+{
+   "not_selected_stock_code":"Bạn chưa chọn mã chứng khoán",
+  "purchasing_ability":"SM: ",
+  "lang":"Ngôn ngữ",
+  "language":"Ngôn ngữ",
+  "languageDropdown": "{locale, select, vi{VN} en{EN} other{} }",
+  "@languageDropdown": {
+    "placeholders": {
+      "locale": {
+        "type": "String"
+      }
+    }
+  },
+   "loginForm": "{loginForm, select, title{Đăng nhập} create_account{Mở tài khoản} account{Bạn chưa có tài khoản?} user_name{Tên đăng nhập} password{Mật khẩu} save_login{Lưu thông tin đăng nhập} forgot_password{Quên mật khẩu?} search_stk{Tra cứu STK} save_login_info{Lưu thông tin đăng nhập} other{} }",
+  "@loginForm": {
+    "placeholders": {
+      "loginForm": {
+        "type": "String"
+      }
+    }
+  }
+}
